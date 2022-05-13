@@ -1,4 +1,4 @@
-# mdl-et718-20220511-rails-hr-repo
+# ahm-et718-hr-repo
 
 
 rails generate model Article title:string text:text
